@@ -1,0 +1,431 @@
+/* optional-mark  */
+.font-family{
+    font-family: "Fira Sans", serif;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-left: 160px;
+    font-family: "Fira Sans", serif;
+}
+.first-button{
+    margin-top: 5px;
+    margin-bottom: 19px;
+    margin-right: 160px;
+    width: 116px;
+    font-size: 18px;
+    font-weight: 600px;
+    border-radius: 8px;
+    border: #006A50 solid 1px;
+    color: #006A50;
+    font-family: "Fira Sans", serif;
+}
+/* main-mark-1 */
+.main-mark{
+    display: flex;
+    background-color: #C6E4D6;
+    width: 1470px;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-radius: 24px;
+    justify-content: space-between;
+    height: 560px;
+    
+}
+.main-h{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: "Fira Sans", serif;
+    margin-top: 117px;
+    margin-left: 60px;
+
+}
+.main-p{
+    font-size: 56px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 16px;
+    margin-right: 200px;
+    font-family: "Fira Sans", serif;
+}
+.main-b{
+    margin-left: 60px;
+    margin-top: 24px;
+    width: 270px;
+    height: 56px;
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+}
+.main-img{
+    width: 474px;
+    height: 400;
+    margin: 80px 60px 80px ;
+}
+/* vision of future */
+.vision-of-future{
+    margin-left: 350px;
+    width: 1470px;
+}
+.future{
+    margin-top: 80px;
+}
+.vision-h{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+.vision-p{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 32px;
+    font-family: "Fira Sans", serif;
+}
+.information-containar{
+    display: flex;
+    height: 325px;
+}
+.information-1{
+    width: 473px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    /* margin-top: 30px;
+    margin-left: 30px; */
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.infor-h{
+     font-size: 20px;
+     font-weight: bold;
+     font-family: "Fira Sans", serif;
+}
+.infor-p{
+    font-size: 16px;
+     font-weight: 400px;
+     font-family: "Fira Sans", serif;
+     margin-right: 32px;
+}
+.infor-b-1{
+    font-size: 16px;
+    font-weight: 600px;
+    font-family: "Fira Sans", serif;
+    margin-top: 24px;
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    border: none;
+}
+.information-2{
+    width: 473px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 24px;
+}
+.information-3{
+    width: 473px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 24px;
+}
+.infor-b-2{
+    font-size: 16px;
+    font-weight: 600px;
+    font-family: "Fira Sans", serif;
+    margin-top: 24px;
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    border: none;
+}
+.infor-b-3{
+    font-size: 16px;
+    font-weight: 600px;
+    font-family: "Fira Sans", serif;
+    margin-top: 24px;
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    background-color: #FFC239;
+    border: none;
+}
+.recent{
+    margin-left: 350px;
+    width: 1470px;
+}
+.con-3-h-1{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+    margin-top: 80px;
+}
+.con-3-p{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 32px;
+    font-family: "Fira Sans", serif;
+}
+.containar-3{
+    display: flex;
+    height: 420px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+}
+.satelite{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+    margin: 48px 0px 48px 48px;
+}
+.con-description{
+    margin: 0px 48px 0px 32px;
+}
+.con-3-h-2{
+    margin-top: 50px;
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.con-3-p-1{
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+}
+.con-3-p-2{
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+}
+.con-3-b{
+    width: 139px;
+    height: 48px;
+    margin-top: 32px;
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+}
+.containar-clone{
+    display: flex;
+    margin-left: 350px;
+    width: 1470px;
+    height: 420px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    margin-top: 24px;
+}
+.con-descrip-clone{
+    margin-left: 48px;
+    width: 800px;
+    
+}
+.satelite-clone{
+    margin: 57px 48px 48px 180px;
+    border-radius: 24px;
+}
+.con-3-h-clone{
+    margin-top: 50px;
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.con-p-1-clone{
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+}
+.con-p-2-clone{
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+    width: 900px;
+}
+.con-b-clone{
+    width: 139px;
+    height: 48px;
+    margin-top: 32px;
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+}
+.main{
+    margin-left: 350px;
+    width: 1470px;
+    justify-items: center;
+}
+.donate{
+    justify-items: center;
+}
+.donate-h{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+    margin-top: 80px;
+}
+.donate-p{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 32px;
+    font-family: "Fira Sans", serif;
+    width: 1104px;
+    height: 48px;
+}
+.donate-b{
+    width: 1071px;
+    height: 128px;
+    display: flex;
+}
+.button-1{
+    width: 280px;
+    height: 128px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 16px;
+    margin-left: 104px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.button-2{
+    width: 285px;
+    height: 128px;
+    background-color: #C6E4D6;
+    border: none;
+    border-radius: 16px;
+    margin-left: 24px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.button-3{
+    width: 282px;
+    height: 128px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 16px;
+    margin-left: 24px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.button-4{
+    width: 300px;
+    height: 128px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 16px;
+    margin-left: 24px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.input{
+    width: 900px;
+    height: 64px;
+    margin-top: 32px;
+    margin-left: 100px;
+    border: none;
+}
+.done{
+    width: 139px;
+    height: 48px;
+    margin-top: 32px;
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+    margin-left: 450px;
+}
+input::placeholder {
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 20px;
+    font-weight: 400px;
+    padding-left: 300px;
+  }
+.challenges{
+    margin-left: 350px;
+    width: 1470px;
+    justify-items: center;
+    background-color: #C6E4D6;
+    height: 395px;
+    border-radius: 24px;
+    padding-top: 40px;
+    margin-top: 80px;
+}
+.chall-h{
+    margin-left: 220px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+.chall-p-1{
+    color: #0E0E0E;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+}
+.input-2{
+    width: 500px;
+    height: 55px;
+    padding-right: 400px;
+    border-radius:;
+    background-color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+    border: none;
+}
+.submit{
+    width: 150px;
+    height: 57px;
+    background-color: #006A50;
+    border: none;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    font-family: "Fira Sans", serif;
+}
+.chall-p-2{
+    margin-top: 24px;
+    margin-left: 420px;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: "Fira Sans", serif;
+    color: rgba(14, 14, 14, 0.7);
+}
